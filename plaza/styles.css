@@ -17,3 +17,21 @@ Recuerda: este archivo se enlaza DESPUÉS de Bootstrap.
 La paleta es tuya: colores cálidos de plaza de mercado.
 ============================================================
 */
+
+
+
+.row .col {
+  border: 1px solid #96a769;
+  border-radius: 12px;
+  padding: 25px 15px;
+  background-color: #c9dacc;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+
+}
+
+footer {
+margin-top: 30px;
+padding: 20px;
+background-color: #f8f9fa;
+}
+
