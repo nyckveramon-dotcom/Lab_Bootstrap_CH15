@@ -17,7 +17,13 @@ Recuerda: este archivo se enlaza DESPUÉS de Bootstrap.
 La paleta es tuya: colores cálidos de plaza de mercado.
 ============================================================
 */
+:root{
 
+  --bs-primary: #96a769;
+  --verde2: #c9dacc;
+  --crema: #f8f9fa;
+
+}
 
 
 .row .col {
@@ -35,3 +41,7 @@ padding: 20px;
 background-color: #f8f9fa;
 }
 
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
